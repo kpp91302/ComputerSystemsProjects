@@ -1,0 +1,9 @@
+[?2004hcush> sleep 30 &sleep 30 &
+
+[?2004l[1] 1863071
+[?2004hcush> kill -9 1kill -9 1
+
+[?2004lSent kill signal SIGKILL
+[?2004hcush> exitexit
+
+[?2004l
